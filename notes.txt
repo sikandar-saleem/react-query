@@ -1,0 +1,7 @@
+AUTO REFRESH STALE DATA
+
+* When network is reconneted (if client go offiline then online)
+* When component is mounted
+* When the window is refocused (if client click on other tab then back to this tab)
+
+We can disable this feature in query confuguration
